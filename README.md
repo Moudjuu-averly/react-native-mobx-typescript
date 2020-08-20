@@ -3,7 +3,7 @@
 
 ### A [React Native](https://facebook.github.io/react-native/docs/getting-started.html) Starter Kit with [NativeBase](https://nativebase.io/) + [React Navigation](https://reactnavigation.org/) + [MobX](https://github.com/mobxjs/mobx) Apps (iOS & Android)
 
-*Brought to you by [GeekyAnts](https://geekyants.com/)*
+*Brought to you by [Averly](https://averly.com.na)*
 
 
 ## Get Started
